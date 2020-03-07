@@ -1,2 +1,0 @@
-# FormWithStateAndProps
-Created with CodeSandbox
